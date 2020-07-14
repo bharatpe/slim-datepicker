@@ -24,10 +24,10 @@ npm i slim-datepicker
 Basic use:
 ```javascript
 import React, { useState } from 'react'
-import Calendar from 'slim-react-calendar';
+import SlimDatePicker from 'slim-datepicker';
 
 const App = () => {
-  return <Calendar
+  return <SlimDatePicker
   min="5"
   max="30"
   onSubmit={date => {
@@ -38,7 +38,7 @@ const App = () => {
 
 // Only calendar
 const App2 = () => {
-  return <Calendar
+  return <SlimDatePicker
   min="5"
   max="30"
   onlyCalendar
