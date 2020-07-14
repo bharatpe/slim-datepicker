@@ -1,10 +1,10 @@
 # slim-datepicker [![NPM version](https://img.shields.io/npm/v/slim-datepicker.svg)](https://www.npmjs.com/package/slim-datepicker) [![Downloads](http://img.shields.io/npm/dm/slim-datepicker.svg)](https://npmjs.org/package/slim-datepicker) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 Flexible react google map with more options of search, pick & select.
 
-![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/slim-datepicker.png)
+![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo.png)
 
 
-![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/example/images/slim-datepicker.png)
+![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo-1.png)
 
 
 # Getting Started
@@ -64,8 +64,7 @@ const App2 = () => {
 |  Props                | Description                                                      | Default value
 |-----------------------|------------------------------------------------------------------|-------------------------------|
 |defaultDate            | Default date                                                     | new Date() // Tue Jul 14 2020 19:11:09 GMT+0530 (India Standard Time)
-|min                    | min age (Duration) - Example : 5 (Till 5 years from now) 
-if -10 then date supports till 2025 (Future date)   | --
+|min                    | min age (Duration) - Example : 5 (Till 5 years from now), IF (-ve) Ex: -10 then date supports till 2025 (Future date)   | --
 |max                    | max age (Duration) - Example : 30 (Upto 30 years earlier)        | --
 |onSubmit               | Triggers once date valid & filled / Selected from calendar       | 
 |calendarIcon           | Calendar trigger Icon, On click on this calendar modal will open | default icon
