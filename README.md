@@ -1,10 +1,9 @@
 # slim-datepicker [![NPM version](https://img.shields.io/npm/v/slim-datepicker.svg)](https://www.npmjs.com/package/slim-datepicker) [![Downloads](http://img.shields.io/npm/dm/slim-datepicker.svg)](https://npmjs.org/package/slim-datepicker) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-Flexible react google map with more options of search, pick & select.
+Flexible user friendly datepicker with optional calendar.
 
-![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo.png)
+## PREVIEW
+![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/logo.png)
 
-
-![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo-1.png)
 
 
 # Getting Started
@@ -70,6 +69,13 @@ const App2 = () => {
 |calendarIcon           | Calendar trigger Icon, On click on this calendar modal will open | default icon
 |containerStyle         | Styling the date picker container                                | default style
 |calenderIconHTML       | Just a text or button click can trigger calendar via this        | --
+
+
+## PREVIEW
+![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo.png)
+
+
+![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo-1.png)
 
 
 # Releases
