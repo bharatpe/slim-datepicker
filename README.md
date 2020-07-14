@@ -1,7 +1,6 @@
 # slim-datepicker [![NPM version](https://img.shields.io/npm/v/slim-datepicker.svg)](https://www.npmjs.com/package/slim-datepicker) [![Downloads](http://img.shields.io/npm/dm/slim-datepicker.svg)](https://npmjs.org/package/slim-datepicker) [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 Flexible user friendly datepicker with optional calendar.
 
-## PREVIEW
 ![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/logo.png)
 
 
