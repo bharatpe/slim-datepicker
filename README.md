@@ -71,10 +71,10 @@ const App2 = () => {
 
 
 ## PREVIEW
-![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo.png)
-
 
 ![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo-1.png)
+
+![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo.png)
 
 
 # Demo Sandbox
