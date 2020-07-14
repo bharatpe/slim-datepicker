@@ -1,6 +1,6 @@
 {
   "name": "slim-datepicker",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Slim input date input with optimized keyboard travel and an optional date picker modal",
   "keywords": [
     "calendar",
