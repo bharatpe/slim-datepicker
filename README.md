@@ -77,6 +77,9 @@ const App2 = () => {
 ![slim-datepicker](https://raw.githubusercontent.com/bharatpe/slim-datepicker/master/demo/demo-1.png)
 
 
+# Demo Sandbox
+Here [DemoSandbox](https://codesandbox.io/embed/heuristic-cookies-glj46?codemirror=1)
+
 # Releases
 Here [Releases](https://github.com/bharatpe/slim-datepicker/blob/master/releases.md)
 
