@@ -26,7 +26,7 @@ const Calendar = ({
   calenderIconHTML,
 }) => {
   const [day, setDay] = useState("");
-  const [month, setMonth] = useState("");
+  const [month, setMonthFinal] = useState("");
   const [year, setYear] = useState("");
   const [calendar, setCalendar] = useState(new Date());
   const [showCalendarModal, setShowCalendarModal] = useState(false);
@@ -37,6 +37,15 @@ const Calendar = ({
   const dayRef = useRef();
   const monthRef = useRef();
   const yearRef = useRef();
+
+  /**
+   * @name setMonth
+   * @description Month is default 0-11 so adding 1 to it before setting state
+   * @param {*} month 
+   */
+  const setMonth = month => {
+    setMonthFinal(Number(month)+1)
+  }
 
   /**
    * @name isValidYear
